@@ -18,4 +18,4 @@ Running the solved grids through sudoku.py, gives us the flag.
 
 
 ---
-Peter Tirsek, 2020-01-20
+_Peter Tirsek, 2020-01-20_
