@@ -11,7 +11,7 @@
 ### Level 2
 
 * [dumpster_dive](dumpster_dive.md) (200 points)
-* number_of_the_beast (150 points) (Writeup coming soon)
+* [number_of_the_beast](number_of_the_beast.md) (150 points)
 * [itsadate](itsadate.md) (3 x 100 points)
 * [sort_sol](sort_sol.md) (200 points)
 
@@ -25,7 +25,7 @@
 ### Level 4
 
 * [binexp2](binexp2.md) (300 points)
-* binexp3 (400 points) (Writeup coming soon)
+* [binexp3](binexp3.md) (400 points)
 * binexp4 (500 points) (Writeup coming soon)
 * firmware (500 points) (Writeup coming soon)
 
