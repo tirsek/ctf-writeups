@@ -24,7 +24,10 @@ awk '{
 }' | base64 -d; echo
 ```
 
-Flag: `FE{t4ste-th3-r41nb0w}`
+
+## Flag
+
+`FE{t4ste-th3-r41nb0w}`
 
 
 ---

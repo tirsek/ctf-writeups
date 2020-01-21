@@ -884,11 +884,9 @@ PS... You're fired.
 
 ## Flags
 
-FLAG 1: `FE{f1r57_t1m32_93t5_4_p4d_0n_7h3_h34d}`
-
-FLAG 2: `FE{t1m3_h34l5_a11_w0und5}`
-
-FLAG 3: `FE{th3_n19h7_i5_y0u2_0wn}`
+1. `FE{f1r57_t1m32_93t5_4_p4d_0n_7h3_h34d}`
+2. `FE{t1m3_h34l5_a11_w0und5}`
+3. `FE{th3_n19h7_i5_y0u2_0wn}`
 
 
 ---

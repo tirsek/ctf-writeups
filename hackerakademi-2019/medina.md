@@ -67,5 +67,11 @@ Escape character is '^]'.
 FE{V3lk0Mm3N_TiL_M3dIN4}
 ```
 
+
+## Flag
+
+`FE{V3lk0Mm3N_TiL_M3dIN4}`
+
+
 ---
 Peter Tirsek, 2020-01-20

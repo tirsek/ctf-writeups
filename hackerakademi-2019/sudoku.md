@@ -11,7 +11,10 @@ by the challenge.
 
 Running the solved grids through sudoku.py, gives us the flag.
 
-Flag: `FE{shall_we_play_a_game}`
+
+## Flag
+
+`FE{shall_we_play_a_game}`
 
 
 ---

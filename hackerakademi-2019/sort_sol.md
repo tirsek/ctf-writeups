@@ -101,7 +101,7 @@ collected and displayed after the game ends.
 
 ## Flag
 
-Flag: `FE{1337_y0uR_f!nG3r5_D0_tHe_w4lKiNg}`
+`FE{1337_y0uR_f!nG3r5_D0_tHe_w4lKiNg}`
 
 
 ---

@@ -184,7 +184,7 @@ displayed.
 
 ## Flag
 
-Flag: `FE{You_beat_the_C4sin0_and_pwned_it_for_good_measure}`
+`FE{You_beat_the_C4sin0_and_pwned_it_for_good_measure}`
 
 
 ---

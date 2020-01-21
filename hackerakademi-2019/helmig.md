@@ -240,5 +240,12 @@ noob@sphinx # cat flag
 FE{d3T_Er_m1G_D3r_5tAAr_h3rUDe_0g_b4NkeR_pAA}
 ```
 
+
+## Flags
+
+1. `FE{det_er_mig_der_staar_herude_og_banker_paa}`
+2. `FE{d3T_Er_m1G_D3r_5tAAr_h3rUDe_0g_b4NkeR_pAA}`
+
+
 ---
 Peter Tirsek, 2020-01-20

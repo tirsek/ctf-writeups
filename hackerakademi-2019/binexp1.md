@@ -226,7 +226,7 @@ will be printed.
 
 ## Flag
 
-Flag: `FE{You_know_Femtium_n0w}`
+`FE{You_know_Femtium_n0w}`
 
 
 ---
