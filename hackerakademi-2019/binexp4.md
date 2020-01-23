@@ -129,7 +129,7 @@ if (flagRefCount == 1) {
 	kfree(flag);
 }
 flagRefCount--;
-``
+```
 
 When calling the XXXFLAGFREE ioctl request, the reference count is always
 decremented. If it was 1, the memory is freed, but the pointer is not cleared.
@@ -206,4 +206,4 @@ FE{S3crets_0f_th3_sph1nx_4nd_the_tri4ls_of_fenix!}
 
 
 ---
-_Peter Tirsek, 2020-01-21_
+_Peter Tirsek, 2020-01-22_
