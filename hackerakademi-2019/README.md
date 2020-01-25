@@ -26,8 +26,8 @@
 
 * [binexp2](binexp2.md) (300 points)
 * [binexp3](binexp3.md) (400 points)
-* binexp4 (500 points) (Writeup coming soon)
-* firmware (500 points) (Writeup coming soon)
+* [binexp4](binexp4.md) (500 points)
+* [firmware](firmware.md) (500 points)
 
 
 ### Bonus content
