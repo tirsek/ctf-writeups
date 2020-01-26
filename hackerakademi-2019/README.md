@@ -19,7 +19,7 @@
 ### Level 3
 
 * [binexp1](binexp1.md) (200 points)
-* cybermissilecmdr (300 points) (Writeup coming soon)
+* [cybermissilecmdr](cybermc.md) (300 points)
 
 
 ### Level 4
